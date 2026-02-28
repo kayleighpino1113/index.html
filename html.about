@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About</title>
+</head>
+<body>
+
+<h1>About</h1>
+
+<p>This page is about our hobbies and interests. Kayleigh loves listening to music and Alyssa loves to play badminton.</p>
+
+<!-- Image -->
+<img src="music.jpg" alt="My Hobby" width="500">
+<img src="alaysa.jpg" alt="My Hobby" width="300">
+
+<!-- Audio -->
+<h3>Audio Explanation</h3>
+<audio controls>
+    <source src="audio.mp4" type="audio/mpeg">
+</audio>
+
+<!-- Video -->
+<h2>Favorite Sci-Fi Movie</h2>
+<h3>Star Wars</h3>
+
+<video width="400" controls>
+    <source src="starwars.mp4" type="video/mp4">
+</video>
+</body>
+</html>
