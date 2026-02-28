@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+
+<h1>Welcome to our Website</h1>
+
+<p>This is the homepage of our website. Here you can see our picture and learn more about this webpage.</p>
+
+<!-- Image -->
+<img src="gwapa.jpg" alt="My Picture" width="300">
+<img src="haha.jpg" alt="My Picture" width="300">
+<h4><strong>Name:</strong>Kayleigh Mitch Pino.</h4>
+<h4><strong>Name:</strong>Alyssa B Singculan.</h4>
+
+<!-- Audio -->
+<h3>Audio Explanation</h3>
+<audio controls>
+    <source src="hobby.mp3" type="audio/mpeg">
+</audio>
+
+<!-- Video -->
+<h3>Activity Video</h3>
+<video width="400" controls>
+    <source src="video.mp4" type="video/mp4">
+</video>
+
+<!-- External Link -->
+<p>Visit <a href="https://www.w3schools.com/" target="_blank">W3school</a> for learning HTML.</p>
+
+</body>
+</html>
